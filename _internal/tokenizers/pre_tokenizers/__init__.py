@@ -1,4 +1,4 @@
-# Generated content DO NOT EDIT
+
 
 from .. import pre_tokenizers
 
